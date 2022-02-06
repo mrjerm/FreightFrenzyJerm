@@ -1,0 +1,3 @@
+com/example/meepmeeptesting/MeepMeepTesting.java
+ com.example.meepmeeptesting.MeepMeepTesting
+ com.example.meepmeeptesting.MeepMeepTesting$1
